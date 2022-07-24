@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/menu_home"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24" />
+
+        <item
+            android:id="@+id/menu_saved_games"
+            android:title="Saved Games"
+            android:icon="@drawable/ic_baseline_local_fire_department_24" />
+
+        <item
+            android:id="@+id/menu_logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_baseline_logout_24" />
+</menu>

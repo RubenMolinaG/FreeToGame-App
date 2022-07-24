@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797058917152",
+    "project_id": "freetoplay-6a950",
+    "storage_bucket": "freetoplay-6a950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797058917152:android:bfd581428d3198e7782d45",
+        "android_client_info": {
+          "package_name": "com.example.freegamesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797058917152-q5ru2uhat0p6o8udhqk37tqtb7k2dabr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxt8WhJBof2bpLlPaVpjwatzp6AmSr3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797058917152-q5ru2uhat0p6o8udhqk37tqtb7k2dabr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
